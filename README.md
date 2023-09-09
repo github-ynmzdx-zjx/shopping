@@ -13,6 +13,8 @@ $ npm install
 
 
 # 启动后台接口
+src文件夹下
+
 $ node app.js
 
 
